@@ -1,0 +1,17 @@
+# Logs
+*.log
+npm-debug.log*
+
+# Coverage directory used by tools like istanbul
+coverage
+
+# Compiled code
+build
+
+# Dependency directories
+node_modules/
+
+# dotenv environment variables file
+.env
+
+

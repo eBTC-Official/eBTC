@@ -1,0 +1,29 @@
+{
+  "name": "eBTC",
+  "version": "0.0.1",
+  "scripts": {
+    "testrpc": "testrpc 2>&1 > /dev/null&",
+    "test": "truffle test",
+    "migrate": "truffle migrate",
+    "build": "truffle build",
+    "coverage": "solidity-coverage",
+    "develop": "truffle develop",
+    "lint": "solium --dir ./contracts"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "bignumber.js": "^4.1.0",
+    "ethereumjs-testrpc": "^4.1.3",
+    "mathjs": "^3.16.5",
+    "solidity-coverage": "^0.2.7",
+    "solium": "^1.0.0",
+    "truffle": "^4.0.0-beta.2",
+    "web3": "^0.18.4"
+  },
+  "license" : "GPL-3.0",
+  "repository" :
+  {
+    "type" : "git",
+    "url" : "https://github.com/eBTCCommunityTrustToken/eBTC"
+  }
+}
