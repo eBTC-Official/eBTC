@@ -20,7 +20,7 @@ To setup the development environment for the project you will need the following
 clone the repository
 
 ```commandline
-git clone git@github.com:eBTCCommunityTrustToken/eBTC.git
+git clone https://github.com/eBTCCommunityTrustToken/eBTC.git
 ```
 
 cd in to the cloned directory
