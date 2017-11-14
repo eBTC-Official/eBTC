@@ -1,6 +1,6 @@
-# eBTC Token
+# eBitcon (eBTC) Token
 
-**eBTC Token** is a Tokenized Bitcoin on Ethereum.
+**eBitcoin (eBTC) Token** is a Tokenized Bitcoin on Ethereum.
 
 ## Getting Started
 
@@ -85,7 +85,7 @@ Additional labels for pre-release and build metadata are available as extensions
 
 ## Authors
 
-* **eBTC Core Team**
+* **eBitcoin (eBTC) Core Team**
 
 See also the list of [contributors](https://github.com/eBTCCommunityTrustToken/eBTC/graphs/contributors) who participated in this project.
 
