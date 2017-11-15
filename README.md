@@ -1,4 +1,4 @@
-# eBitcon (eBTC) Token
+# eBitcoin (eBTC) Token
 
 **eBitcoin (eBTC) Token** is a Tokenized Bitcoin on Ethereum.
 
