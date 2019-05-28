@@ -20,7 +20,7 @@ To setup the development environment for the project you will need the following
 clone the repository
 
 ```commandline
-git clone https://github.com/eBTCCommunityTrustToken/eBTC.git
+git clone https://github.com/eBTC-Official/eBTC.git
 ```
 
 cd in to the cloned directory
@@ -87,7 +87,7 @@ Additional labels for pre-release and build metadata are available as extensions
 
 * **eBitcoin (eBTC) Core Team**
 
-See also the list of [contributors](https://github.com/eBTCCommunityTrustToken/eBTC/graphs/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/eBTC-Official/eBTC/graphs/contributors) who participated in this project.
 
 ## License
 
